@@ -23,8 +23,6 @@ Passionate about building scalable web applications and solving real-world engin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Socials
 
 <div align="center">
@@ -40,8 +38,6 @@ Passionate about building scalable web applications and solving real-world engin
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
@@ -66,8 +62,6 @@ Passionate about building scalable web applications and solving real-world engin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
@@ -87,22 +81,6 @@ Passionate about building scalable web applications and solving real-world engin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkr45/mkr45/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkr45/mkr45/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mkr45/mkr45/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### ✍️ Random Dev Quote
@@ -110,8 +88,6 @@ Passionate about building scalable web applications and solving real-world engin
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 </div>
-
----
 
 <div align="center">
 
