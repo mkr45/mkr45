@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mayank%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:238636&height=200&section=header&text=Mayank%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%92%BB+Software+Engineer+%7C+Full+Stack+Developer;%E2%9A%A1+Building+scalable+web+applications;%F0%9F%8E%AF+Clean+architecture+%7C+Performance+%7C+Quality" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer+%7C+Full+Stack+Developer;Building+scalable+web+applications;Clean+architecture+%7C+Performance+%7C+Quality" alt="Typing SVG" /></a>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
 
 </div>
 
@@ -21,7 +21,7 @@ Passionate about building scalable web applications and solving real-world engin
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Socials
 
@@ -37,64 +37,63 @@ Passionate about building scalable web applications and solving real-world engin
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
 <div align="center">
 
-### 🧑‍💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=java,javascript,python&theme=dark" />
 
-### 🎨 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,ember,redux,html,css&theme=dark" />
 
-### ⚙️ Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-### 🗄️ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-### 🛠️ Tools & Frameworks
+### Tools & Frameworks
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mkr45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=A855F7" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkr45&theme=tokyonight&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkr45&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=8b949e" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkr45&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkr45&bg_color=1a1b27&color=a855f7&line=628fdb&point=a855f7&area=true&area_color=a855f7&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkr45&bg_color=0d1117&color=39D353&line=39D353&point=c9d1d9&area=true&area_color=238636&hide_border=true" width="95%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
 
 <div align="center">
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mkr45&style=for-the-badge&color=a855f7" />
+<img src="https://komarev.com/ghpvc/?username=mkr45&style=for-the-badge&color=39D353" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:238636&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
