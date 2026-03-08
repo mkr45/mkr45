@@ -14,12 +14,10 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-Passionate about building scalable web applications and solving real-world engineering problems. I enjoy working across both frontend and backend systems, focusing on clean architecture, performance, and maintainable code. Currently working on production systems, improving frontend infrastructure, backend APIs, and workflow automation.
+Passionate about building scalable web applications and solving real-world engineering problems. I enjoy working across both frontend and backend systems, focusing on clean architecture, performance, and maintainable code. Currently working improving frontend infrastructure and backend APIs.
 
-- 🔭 Currently working on **production-grade web applications**
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about **React, Node.js, Java, System Design**
-- ⚡ Fun fact: I debug faster with coffee ☕
+- Currently working on **production-grade web applications**
+- Always learning and exploring new technologies
 
 <br clear="right"/>
 
@@ -35,7 +33,7 @@ Passionate about building scalable web applications and solving real-world engin
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-mkr45-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mkr45)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Mayank-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mayank45r/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mayank45r-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mayank45r/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-mayankkr4554%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayankkr4554@gmail.com)
 
