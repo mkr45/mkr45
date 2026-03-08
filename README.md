@@ -35,19 +35,18 @@
 
 <div align="center">
 
-### Languages
+
 <img src="https://skillicons.dev/icons?i=java,javascript,python&theme=dark" />
 
-### Frontend
+
 <img src="https://skillicons.dev/icons?i=react,ember,redux,html,css&theme=dark" />
 
-### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-### Databases
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-### Tools & Frameworks
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />
 
 </div>
