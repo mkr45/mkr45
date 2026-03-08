@@ -1,25 +1,17 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:238636&height=200&section=header&text=Mayank%20Kumar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+
+<div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineer+%7C+Full+Stack+Developer;Building+scalable+web+applications;Clean+architecture+%7C+Performance+%7C+Quality" alt="Typing SVG" /></a>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
-
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+<br/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<div align="center"
 
-Passionate about building scalable web applications and solving real-world engineering problems. I enjoy working across both frontend and backend systems, focusing on clean architecture, performance, and maintainable code. Currently working improving frontend infrastructure and backend APIs.
 
-- Currently working on **production-grade web applications**
-- Always learning and exploring new technologies
-
-<br clear="right"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
 
@@ -43,18 +35,19 @@ Passionate about building scalable web applications and solving real-world engin
 
 <div align="center">
 
-
+### Languages
 <img src="https://skillicons.dev/icons?i=java,javascript,python&theme=dark" />
 
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,ember,redux,html,css&theme=dark" />
 
-
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-
+### Tools & Frameworks
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />
 
 </div>
@@ -66,10 +59,6 @@ Passionate about building scalable web applications and solving real-world engin
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkr45&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=8b949e" width="49%" />
-
-<br/>
-
-
 
 <br/>
 
@@ -91,8 +80,8 @@ Passionate about building scalable web applications and solving real-world engin
 
 <img src="https://komarev.com/ghpvc/?username=mkr45&style=for-the-badge&color=39D353" />
 
-<br/><br/>
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:238636&height=120&section=footer&animation=twinkling" width="100%"/>
-
-</div>
