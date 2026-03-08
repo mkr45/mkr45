@@ -8,11 +8,6 @@
 
 <br/>
 
-<div align="center"
-
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39D353,100:0d1117&height=15&section=footer" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Socials
@@ -35,17 +30,13 @@
 
 <div align="center">
 
-
 <img src="https://skillicons.dev/icons?i=java,javascript,python&theme=dark" />
-
 
 <img src="https://skillicons.dev/icons?i=react,ember,redux,html,css&theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel&theme=dark" />
 
@@ -59,7 +50,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkr45&theme=github-dark-blue&hide_border=true&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=8b949e" width="49%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkr45&bg_color=0d1117&color=39D353&line=39D353&point=c9d1d9&area=true&area_color=238636&hide_border=true" width="95%"/>
 
@@ -69,15 +60,11 @@
 
 <div align="center">
 
-### Random Dev Quote
+<img src="https://komarev.com/ghpvc/?username=mkr45&style=for-the-badge&color=39D353" />
+
+<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mkr45&style=for-the-badge&color=39D353" />
 
 </div>
 
