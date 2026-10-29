@@ -209,7 +209,6 @@ Developed backend services and modular REST endpoints, exposing previously inter
 <br/>
 
 <!-- ANALYTICS -->
-<div align="center">
 
 <!-- ============================================= -->
 <!--                GITHUB ANALYTICS               -->
@@ -259,44 +258,6 @@ Developed backend services and modular REST endpoints, exposing previously inter
 </div>
 
 <br/>
-
-<!-- ============================================= -->
-<!--                IMPACT METRICS                 -->
-<!-- ============================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=ENGINEERING%20IMPACT&fontSize=30&fontColor=39D353&animation=fadeIn" width="80%"/>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="180">
-<h1>50+</h1>
-<p>Production UI<br/>issues resolved</p>
-</td>
-<td align="center" width="180">
-<h1>30%</h1>
-<p>Less code<br/>duplication</p>
-</td>
-<td align="center" width="180">
-<h1>22%</h1>
-<p>Faster page load<br/>/ render time</p>
-</td>
-<td align="center" width="180">
-<h1>40%</h1>
-<p>Fewer regression<br/>issues</p>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/35%25-Fewer_UI_Production_Bugs-14532D?style=for-the-badge&labelColor=3A3A3A&color=000000" />
-<img src="https://img.shields.io/badge/125%25--200%25-Zoom_%26_Scaling_Fixes-14532D?style=for-the-badge&labelColor=3A3A3A&color=000000" />
-
-</div>
 
 <!-- EDUCATION -->
 <div align="center">
