@@ -25,16 +25,40 @@
 
 <br/>
 
+<!-- GITHUB ANALYTICS -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=39D353&animation=fadeIn" width="80%" alt="GitHub Analytics" />
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" height="260" align="center" valign="middle">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkr45&theme=github_dark&utcOffset=5.5" width="100%" height="200" alt="Commits by time of day" />
+</td>
+<td width="50%" height="260" align="center" valign="middle">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkr45&theme=github_dark" width="100%" height="200" alt="Top languages by repository" />
+</td>
+</tr>
+<tr>
+<td width="50%" height="260" align="center" valign="middle">
+<img src="https://ghstats.dev/api/card?username=mkr45&bg=000000&title_color=39D353&text=C9D1D9&icon_color=39D353&border_color=3A3A3A&hide_border=true" width="100%" height="200" alt="Mayank Kumar's GitHub stats" />
+</td>
+<td width="50%" height="260" align="center" valign="middle">
+<img src="https://streak-stats.demolab.com/?user=mkr45&theme=dark&hide_border=true&background=000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=3A3A3A" width="100%" height="200" alt="Current GitHub contribution streak" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ABOUT -->
 <div align="center">
 
-## 🟢 ABOUT ME
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&weight=600&duration=2600&pause=1000&color=39D353&center=true&vCenter=true&width=760&height=70&background=000000&lines=%24+whoami+%E2%86%92+Software+Engineer;%24+focus+%E2%86%92+Full+Stack+Engineering;%24+mission+%E2%86%92+Build.+Debug.+Improve.+Repeat." alt="Animated about me terminal" />
 
-**I build reliable, accessible web experiences and backend services.**
-
-My work includes frontend engineering on **production-scale web applications**, reusable component infrastructure, complex UI debugging, data-driven rendering, REST API integrations, and test automation.
 
 <img src="https://img.shields.io/badge/FRONTEND-React_%7C_Ember_%7C_TypeScript-0D1117?style=for-the-badge&labelColor=14532D" />
 <img src="https://img.shields.io/badge/BACKEND-REST_APIs_%7C_Microservices_%7C_Node.js-0D1117?style=for-the-badge&labelColor=14532D" />
@@ -47,7 +71,6 @@ My work includes frontend engineering on **production-scale web applications**, 
 <!-- IMPACT -->
 <div align="center">
 
-## ⚡ ENGINEERING IMPACT
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1100&color=39D353&center=true&vCenter=true&width=740&height=55&background=000000&lines=Measured+improvements.+Real+production+impact.;From+root-cause+analysis+to+regression+guards." alt="Animated engineering impact" />
 
@@ -70,7 +93,6 @@ My work includes frontend engineering on **production-scale web applications**, 
 <!-- WHAT I BUILD -->
 <div align="center">
 
-## 🧩 WHAT I BUILD
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=760&height=60&background=000000&lines=Reusable+UI.+Accessible+Experiences.;API+Integrations.+Distributed+Services.;End-to-End+Tests.+Production+Reliability." alt="Animated areas of work" />
 
@@ -110,13 +132,11 @@ Playwright · JUnit<br/>WCAG · Screen readers<br/>Root-cause analysis
 <!-- ENGINEERING JOURNEY -->
 <div align="center">
 
-## 🏗️ ENGINEERING JOURNEY
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=39D353&center=true&vCenter=true&width=770&height=65&background=000000&lines=Production+Platform+Engineering;Frontend+Infrastructure+%2B+Backend+APIs;Accessibility+%2B+Testing+%2B+Production+Debugging" alt="Animated experience headings" />
 
 <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-Production_Platforms-000000?style=for-the-badge&labelColor=14532D&logoColor=39D353" alt="Software Engineer experience" />
 
-**Software Engineer · Jan 2025 – 2026**
+**Software Engineer**
 
 </div>
 
@@ -168,7 +188,6 @@ Developed backend services and modular REST endpoints, exposing previously inter
 <!-- TECH -->
 <div align="center">
 
-## 🧰 TECH ARSENAL
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2900&pause=1100&color=39D353&center=true&vCenter=true&width=700&height=55&background=000000&lines=Languages.+Frameworks.+Tools.;Technology+is+a+means+to+solve+real+problems." alt="Animated tech arsenal" />
 
@@ -176,19 +195,16 @@ Developed backend services and modular REST endpoints, exposing previously inter
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,cpp&theme=dark" alt="Programming languages" />
 
-<br/><br/>
 
 **FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=react,redux,ember,html,css,scss&theme=dark" alt="Frontend stack" />
 
-<br/><br/>
 
 **BACKEND & DATA**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and database stack" />
 
-<br/><br/>
 
 **TOOLS & TESTING**
 
@@ -208,37 +224,6 @@ Developed backend services and modular REST endpoints, exposing previously inter
 
 <br/>
 
-<!-- ANALYTICS -->
-
-<!-- ============================================= -->
-<!--                GITHUB ANALYTICS               -->
-<!-- ============================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=GITHUB%20ANALYTICS&fontSize=30&fontColor=39D353&animation=fadeIn" width="80%"/>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://ghstats.dev/api/card?username=mkr45&bg=000000&title_color=39D353&text=C9D1D9&icon_color=39D353&border_color=3A3A3A&hide_border=true" width="420" alt="GitHub Stats"/>
-</td>
-<td align="center">
-<img src="https://streak-stats.demolab.com/?user=mkr45&theme=dark&hide_border=true&background=000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=3A3A3A" width="420" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkr45&theme=github_dark" width="420" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
 <!-- ============================================= -->
 <!--              CONTRIBUTION GRAPH               -->
 <!-- ============================================= -->
@@ -251,10 +236,6 @@ Developed backend services and modular REST endpoints, exposing previously inter
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkr45&theme=github_dark" width="95%" alt="Contribution Graph"/>
 
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkr45&theme=github_dark&utcOffset=5.5" width="95%" alt="GitHub Contribution Activity by Time"/>
-
 </div>
 
 <br/>
@@ -262,7 +243,6 @@ Developed backend services and modular REST endpoints, exposing previously inter
 <!-- EDUCATION -->
 <div align="center">
 
-## 🎓 EDUCATION
 
 <img src="https://img.shields.io/badge/B.E.-COMPUTER_SCIENCE_%26_ENGINEERING-000000?style=for-the-badge&labelColor=14532D" alt="Bachelor of Engineering in Computer Science" />
 
@@ -275,7 +255,6 @@ Developed backend services and modular REST endpoints, exposing previously inter
 <!-- CONNECT -->
 <div align="center">
 
-## 🤝 LET'S CONNECT
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2700&pause=1000&color=39D353&center=true&vCenter=true&width=750&height=65&background=000000&lines=Have+an+interesting+engineering+challenge%3F;Want+to+collaborate+on+something+meaningful%3F;Let's+connect+and+build." alt="Animated contact section" />
 
@@ -283,11 +262,11 @@ Developed backend services and modular REST endpoints, exposing previously inter
 <a href="mailto:mayankkr4554@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39D353" alt="Email" /></a>
 <a href="https://leetcode.com/u/mayank45r/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=39D353" alt="LeetCode" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mkr45&label=PROFILE+VIEWS&color=14532D&labelColor=000000&style=for-the-badge" alt="Profile views" />
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=39D353&center=true&vCenter=true&width=550&height=55&background=000000&lines=Build.+Learn.+Improve.+Repeat.;Thanks+for+visiting!" alt="Closing animation" />
 
